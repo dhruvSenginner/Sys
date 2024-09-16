@@ -9,6 +9,7 @@ public class Project1 {
 
     // Cooment 
     // code one 
+    // fetch data 
     public static void main(String[] args) {
     System.out.println("Dhruv  R Patel");
     }
