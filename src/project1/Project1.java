@@ -8,7 +8,7 @@ package project1;
 public class Project1 {
 
     // Cooment 
-    // code 
+    // code one 
     public static void main(String[] args) {
     System.out.println("Dhruv  R Patel");
     }
